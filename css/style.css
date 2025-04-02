@@ -1,0 +1,8 @@
+    body {background-color: aliceblue; color: black; border-style: dashed; border-radius: 5px; border-color: darkseagreen; border-width: 5px; padding: 5px 20px; margin: 10px;}
+    h1 {color: black; text-align: center; font-family: Georgia; }
+    p {color: black; font-family: Verdana;}
+    footer {text-align: right; font-size: x-small; color: dimgray}
+    .spanexample {color: seagreen; font-size: 20px;}
+    .para {color: darkgreen}
+    .paragraph_box {color: darkgreen} 
+    .span_box {color: seagreen}
